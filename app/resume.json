@@ -1,0 +1,113 @@
+{
+  "basics": {
+    "name": "Kimberly Kost",
+    "label": "Teaching Fellow and Shepherd at MakerSquare",
+    "picture": "https://avatars1.githubusercontent.com/u/13812451?v=3&s=400",
+    "email": "kimberleekost@gmail.com",
+    "phone": "512.680.0642",
+    "website": "http://kosticus.com",
+    "summary": "I am a classically­-trained musician and, to my chagrin, have never held a panda.",
+    "location": {
+      "city": "Austin",
+      "countryCode": "US",
+      "region": "TX"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://linkedin.com/in/kosticus"
+      },
+      {
+        "network": "Github",
+        "url": "https://github.com/kosticus"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "MakerSquare",
+      "position": "Teaching Fellow and Shepherd",
+      "startDate": "2016",
+      "endDate": "present",
+      "highlights": [
+        "Enhanced existing curriculum to teach MakerPrep, an intro to web development and programming",
+        "Mentored 60+ students and taught debugging, algorithmic thinking and conflict resolutions strategies",
+        "Planned, organized, and budgeted bi-weekly social events for 40+ attendees"
+      ]
+    },
+    {
+      "company": "Costco Wholesale",
+      "position": "Manager",
+      "startDate": "2009",
+      "endDate": "2015",
+      "highlights": [
+        "Monitored current sales, projected future sales, and leveraged payroll/production to increase profits by 15% while reducing amount of product destroyed by up to 80% (lowest in Texas for three consecutive periods)",
+        "Hired 15+ employees, and maintained training in several areas including safety, cleaning, and production",
+        "Controlled inventory and supply purchases of ingredients and products every day"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Fleet",
+      "url": "https://www.youtube.com/watch?v=CibJ-Q2-B6g&feature=youtu.be",
+      "summary": "Fleet is a mobile-optimized ride sharing app built in React and Redux.js, Node.js, Express.js, PostgreSQL, and Socket.io. Our Agile team used continuous integration and test-driven-development to create a robust, full-stack architecture. I produced front-end architecture to display particular containers based on app’s current state, employed Redux to dispatch actions to change state depending on user activity and updated views, and attached authentication component to front-end user clicks and then updated database and state."
+    },
+    {
+      "name": "Travel Consensus",
+      "url": "http://bit.ly/1QmO7fi",
+      "summary": "Create trips, invite others to come along, and discuss travel plans with Travel Consensus. Built in React, Node.js, Express.js, and PostgreSQL, this app allows users to reach an agreement on important trip details such as lodging, food, and sightseeing locations. I refactored legacy code for additional features and enhancements, such as user and trip management, implemented real­time viewing and utilized internal API for adding users to a particular trip, and built front­ and back­end functionality for users to take themselves off any trip and instantly update view."
+    },
+    {
+      "name": "Stack Underflow",
+      "url": "http://bit.ly/1Q4rxxs",
+      "summary": "Stack Underflow is a Stack Overflow clone for MakerSquare students to ask and answer questions within the community and was created with AngularJS, Node.js, Express.js and PostgreSQL, Stack Underflow. I constructed database schema, API, server routes, and queries for all users, answers, and questions, developed user interface to ask and answer technical questions and populated the database with that info, and collaborated to connect front­-end authentication with the database and created authentication verification."
+    }
+  ],
+  "education": [
+    {
+      "institution": "MakerSquare",
+      "area": "Advanced Software Engineering",
+      "startDate": "2016",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Louisiana State University",
+      "studyType": "Bachelor of Music Education",
+      "startDate": "2009",
+      "endDate": "2013"
+    }
+  ],
+  "skills": [
+    {
+      "level": "Strong",
+      "keywords": [
+        "JavaScript",
+        "PostgreSQL",
+        "SQL",
+        "SQLite.js",
+        "HTML5",
+        "jQuery",
+        "AJAX",
+        "Underscore.js"
+      ]
+    },
+    {
+      "level": "Experienced",
+      "keywords": [
+        "Knex.js",
+        "AngularJS",
+        "React",
+        "Redux",
+        "Express",
+        "Node.js",
+        "MongoDB",
+        "D3",
+        "CSS",
+        "Chai/Mocha",
+        "Jasmine",
+        "Git"
+      ]
+    }
+  ]
+}
